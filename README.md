@@ -42,8 +42,7 @@ I am continuously improving my skills as a Full Stack Developer. Currently worki
 
 Feel free to connect with me for any collaboration, questions, or just a friendly tech discussion. Let's build something amazing together!
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [your-github-profile](https://github.com/your-profile)
+- Email: [alishanhaider@gmail.com](mailto:your-email@example.com)
+- GitHub: [github.com/alishan-4067](https://github.com/your-profile)
 
 Thanks for checking out my profile! 🚀
